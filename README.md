@@ -1,4 +1,4 @@
-![chuek](https://raw.githubusercontent.com/bluz71/misc-binaries/master/headings/nightfly.png)
+![chuek](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe1%2F49%2F2c%2Fe1492c2ae74e8bce26ab5f4ceda32779.jpg&f=1&nofb=1)
 ==========
 
 _chuek_ is a dark GUI colorscheme for Vim & Neovim inspired by Shrek.
